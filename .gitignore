@@ -1,0 +1,13 @@
+*.o
+*.d
+*.asm
+*.S
+*.img
+*.sym
+_*
+bootblock
+entryother
+initcode
+initcode.out
+kernel
+mkfs
