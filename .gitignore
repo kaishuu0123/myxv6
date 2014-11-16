@@ -1,9 +1,9 @@
 *.o
 *.d
 *.asm
-*.S
 *.img
 *.sym
+vectors.S
 _*
 bootblock
 entryother
